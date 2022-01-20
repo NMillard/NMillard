@@ -11,7 +11,7 @@
 > youtube   youtube.com/c/NicklasMillard
 > medium    nmillard.medium.com
 
-💬 Ask me about .NET, C#, software design patterns
+💬 Ask me about .NET, C#, software design patterns, development practices
 
 ```
 <!--
